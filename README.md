@@ -6,7 +6,7 @@ Built by [Keshia Rose](https://twitter.com/KroseKeshia)
 
 This is a simple [Web Data Connector](https://tableau.github.io/webdataconnector/docs/) for JSON and XML files, text, and URLs.
 
-URL: `https://json-xml-wdc.herokuapp.com/`
+URL: `https://kadant-wdc-epicor.herokuapp.com/`
 
 Simply paste in your URL or data or just drag and drop a file.
 
@@ -31,7 +31,7 @@ I've noticed that there are a lot of people asking in our [community forums](htt
 
 I suggest deploying your own version of this WDC so you can have a dedicated application for your own use. Here are a few options for spinning up your own:
 
-1. [Deploy it on Heroku](https://heroku.com/deploy?template=https://github.com/KeshiaRose/json-xml-wdc)
+1. [Deploy it on Heroku](https://heroku.com/deploy?template=https://github.com/alekseyn1/JSON-XML-WDC)
 1. [Remix it on glitch](https://glitch.com/edit/#!/remix/json-xml-wdc)
 
 Or you could host it locally by doing the following:
