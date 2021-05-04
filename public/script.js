@@ -33,7 +33,7 @@ myConnector.getSchema = function(schemaCallback) {
   let tableSchemas = [];
 
   _retrieveJsonData(
-    { dataString, dataUrl, method, username, username, token },
+    { dataString, dataUrl, method, username, token },
     function(jsonData) {
       for (let table in tables) {
         let tableData = _jsToTable(jsonData, tables[table].fields);
